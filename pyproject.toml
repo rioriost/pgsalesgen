@@ -3,7 +3,7 @@ name = "pgsalesgen"
 authors = [
     { name = "Rio Fujita", email = "rifujita@microsoft.com" }
 ]
-version = "0.1.1"
+version = "0.1.2"
 license = {file = "LICENSE"}
 description = "Generate sales data for PostgreSQL"
 readme = "README.md"
@@ -11,7 +11,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "numpy>=2.4.2",
-    "psycopg>=3.3.2",
+    "psycopg>=3.3.3",
 ]
 
 [project.urls]

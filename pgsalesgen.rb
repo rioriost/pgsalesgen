@@ -3,8 +3,8 @@ class Pgsalesgen < Formula
 
   desc "PostgreSQL Sales Generator"
   homepage "https://github.com/rioriost/homebrew-pgsalesgen/"
-  url "https://files.pythonhosted.org/packages/e2/a3/a9d4fc196aa69402fba9134f90ac0a245eb447bbce1d5ee560829e3ddc9c/pgsalesgen-0.1.1.tar.gz"
-  sha256 "c70f2460fcc36587e951f7ee4b38170018827b1482f7e39ad2c88ab5d42f9abe"
+  url "https://files.pythonhosted.org/packages/94/91/3adf75c359899d01622a079dc57e6c739dbaca3684f4e7a4fe0214ac95cc/pgsalesgen-0.1.2.tar.gz"
+  sha256 "4591bfb8bd0ecac611f073e538e2b782566d6da2c5de752ea5f57a58c1b7aaf0"
   license "MIT"
 
   depends_on "python@3.14"
