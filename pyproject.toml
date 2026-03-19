@@ -3,7 +3,7 @@ name = "pgsalesgen"
 authors = [
     { name = "Rio Fujita", email = "rifujita@microsoft.com" }
 ]
-version = "0.1.3"
+version = "0.1.4"
 license = {file = "LICENSE"}
 description = "Generate sales data for PostgreSQL"
 readme = "README.md"
@@ -21,8 +21,8 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/rioriost/homebrew-pgsalesgen"
-Issues = "https://github.com/rioriost/homebrew-pgsalesgen/issues"
+Homepage = "https://github.com/rioriost/pgsalesgen"
+Issues = "https://github.com/rioriost/pgsalesgen/issues"
 
 [project.scripts]
 pgsalesgen = "pgsalesgen.main:main"
