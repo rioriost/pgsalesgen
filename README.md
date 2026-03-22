@@ -23,8 +23,7 @@ PostgreSQL Sales Generator
 - with brew
 
 ```bash
-brew tap rioriost/tap
-brew install pg-salesgen
+brew install rioriost/tap/pg-salesgen
 ```
 
 ## Usage
@@ -109,23 +108,6 @@ options:
                         means wait indefinitely.
 )
 ```
-
-## Release Notes
-
-### 0.1.4 Release
-- Move formula to rioriost/tap
-
-### 0.1.3 Release
-- Dependency update
-
-### 0.1.2 Release
-- Dependency update
-
-### 0.1.1 Release
-- Fix formula, pyproject.toml, and so on
-
-### 0.1.0 Release
-- Initial release
 
 ## License
 
